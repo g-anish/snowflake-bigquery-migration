@@ -1,0 +1,7 @@
+pandas==2.1.0
+click==8.1.7
+python-dateutil==2.8.2
+snowflake-connector-python==3.2.0
+openpyxl==3.1.2
+google-cloud-bigquery==3.27.0
+google-cloud-storage==2.19.0
